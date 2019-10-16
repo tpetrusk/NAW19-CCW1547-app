@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>nps</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:56:22</sys_created_on>
+        <sys_id>8c85511100ec00107f44fb82f95a1427</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nps</sys_name>
+        <sys_package display_value="Peer Review" source="x_274523_peer_revi">0128d8281b277b0090824196bc4bcbd2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">0128d8281b277b0090824196bc4bcbd2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8c85511100ec00107f44fb82f95a1427</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:56:22</sys_updated_on>
+        <table>x_274523_peer_revi_user_score</table>
+        <ui_policy display_value="Read only form">4745dddd00ac00107f44fb82f95a1448</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
